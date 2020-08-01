@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Muhammadali Qorbanzadeh, Full Stack Developer at Neongraphy
 
-<!--
-**Qorbanzadeh/Qorbanzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+4+ years of experience in web development and mobile development
+     
+- 🔭 I’m currently working on **react⚛️, nodejs, express** 
+- 🌱 I’m currently learning **Deno** 
+- 🤔 I’m looking for help with **Deno**
+- 💬 Ask me about anything
+- 📫 How to reach me: muhammadaliqorbanzadeh@gmail.com
+- ⚡ I like listening to music and following technology news. 😁 . 
+ - :page_facing_up: Linkdin: https://www.linkedin.com/in/muhammadali-qorbanzadeh-616817155/
