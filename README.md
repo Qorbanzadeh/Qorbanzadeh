@@ -1,6 +1,4 @@
 ### Hi there 👋, I'm Muhammadali Qorbanzadeh, Full Stack Developer at Neongraphy
-
-4+ years of experience in web development and mobile development
      
 - 🔭 I’m currently working on **react⚛️, nodejs, express** 
 - 🌱 I’m currently learning **Deno** 
