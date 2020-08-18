@@ -5,5 +5,5 @@
 - 🤔 I’m looking for help with **Deno**
 - 💬 Ask me about anything
 - 📫 How to reach me: muhammadaliqorbanzadeh@gmail.com
-- ⚡ I like listening to music and following technology news. 😁 . 
+- ⚡ Listening to music and following technology news is one of my hobbies. 😁 
  - :page_facing_up: Linkdin: https://www.linkedin.com/in/muhammadali-qorbanzadeh-616817155/
